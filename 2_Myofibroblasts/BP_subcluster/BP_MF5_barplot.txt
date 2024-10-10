@@ -1,0 +1,11 @@
+Term	Count	PValue
+antigen processing and presentation	16	1.9061486282744836e-17
+positive regulation of T cell activation	11	2.0324217197440188e-11
+adaptive immune response	26	5.139902564188134e-09
+T cell receptor signaling pathway	14	8.587166588750323e-08
+T cell mediated cytotoxicity	6	8.627806346393581e-07
+positive thymic T cell selection	5	1.075314617281043e-05
+innate immune response	24	2.5141863846647316e-05
+positive regulation of T cell proliferation	8	4.110793569288397e-05
+inflammatory response	18	0.00012297212694203487
+positive regulation of T cell migration	5	0.00014317160610842144
